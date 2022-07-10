@@ -1,16 +1,15 @@
-# google_tasks_ui
+# Google Tasks UI
 
-A new Flutter project.
+I made this rebuild on Google Tasks App with Flutter
 
-## Getting Started
+# HomeScreen 
 
-This project is a starting point for a Flutter application.
+[![GT1.jpg](https://i.postimg.cc/X7hXCYrk/GT1.jpg)](https://postimg.cc/D8r2VFdS)
 
-A few resources to get you started if this is your first Flutter project:
+# Drawer menu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[url=https://postimg.cc/18yysTJJ][img]https://i.postimg.cc/18yysTJJ/GT12.jpg[/img][/url]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Add Tasks
+
+[![GT2.jpg](https://i.postimg.cc/HL1x6v4J/GT2.jpg)](https://postimg.cc/JsKMnqFm)
